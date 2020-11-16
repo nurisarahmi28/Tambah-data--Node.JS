@@ -1,0 +1,11 @@
+# Tambah-data--Node.JS
+![Alt Text](https://github.com/nurisarahmi28/Tambah-data--Node.JS/blob/main/1.packagejson.JPG)
+![Alt Text](https://github.com/nurisarahmi28/Tambah-data--Node.JS/blob/main/2.env.JPG)
+![Alt Text](https://github.com/nurisarahmi28/Tambah-data--Node.JS/blob/main/3.connection.JPG)
+![Alt Text](https://github.com/nurisarahmi28/Tambah-data--Node.JS/blob/main/4.app.JPG)
+![Alt Text](https://github.com/nurisarahmi28/Tambah-data--Node.JS/blob/main/5.user%20service.JPG)
+![Alt Text](https://github.com/nurisarahmi28/Tambah-data--Node.JS/blob/main/6.user%20controller.JPG)
+![Alt Text](https://github.com/nurisarahmi28/Tambah-data--Node.JS/blob/main/7.user%20router.JPG)
+![Alt Text](https://github.com/nurisarahmi28/Tambah-data--Node.JS/blob/main/8.addUser.JPG)
+![Alt Text](https://github.com/nurisarahmi28/Tambah-data--Node.JS/blob/main/9.database.JPG)
+![Alt Text]( https://github.com/nurisarahmi28/Tambah-data--Node.JS/blob/main/10.getUser.JPG)
